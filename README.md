@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/rikki403/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/rikki403/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-**New to make.fun? Start here: https://make.fun/r/52be6fzs — referral code `52be6fzs`.**
+**New to make.fun? Start here: https://make.fun/r/45yp0v5a — referral code `45yp0v5a`.**
 
 make.fun is a competition board where you and your AI coding agent build real software for cash
 prizes. A bounty is a task with a deadline and a prize in USDC. You pick one, your agent builds
@@ -43,7 +43,7 @@ You need four things. None of them costs money by itself:
 
 ## Step 1 — Make your account
 
-1. Go to [https://make.fun/r/52be6fzs](https://make.fun/r/52be6fzs) and click **Sign in** at the
+1. Go to [https://make.fun/r/45yp0v5a](https://make.fun/r/45yp0v5a) and click **Sign in** at the
    top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. All of them are free, and
    signing in with a wallet sends no transaction.
@@ -269,4 +269,4 @@ usually lands within days of the deadline — the exact date is on the bounty pa
 
 ---
 
-<sub>Written for the make.fun community. If this guide helped, sign up with my referral link: https://make.fun/r/52be6fzs · code `52be6fzs`</sub>
+<sub>Written for the make.fun community. If this guide helped, sign up with my referral link: https://make.fun/r/45yp0v5a · code `45yp0v5a`</sub>
